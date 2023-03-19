@@ -16,9 +16,9 @@ const main = () => {
                  <AiOutlineArrowLeft size={25}/> Back to dashboard
              </div>
              <div className='flex flex-col'>
-             <div className=' bg-white h-[150px] w-[950px] rounded-xl mt-4'>
+             <div className=' bg-white h-[24%] w-full rounded-xl mt-4'>
               <div className='p-4 text-4xl'>One Thousand Museum</div>
-             </div><div className='bg-white h-[50px] mt-1 rounded-xl w-full'>
+             </div><div className='bg-white h-[8%] mt-1 rounded-xl w-full'>
             <div className='flex'>
             <div className='pt-2 pl-2'>
              <BiBuildings size={30} /></div><div className='flex flex-col pl-4'><p className='text-gray-600'>Type</p><p className='f'>Residential</p> </div>
