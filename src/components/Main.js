@@ -28,7 +28,7 @@ const main = () => {
  <div className='absolute flex'><button className=' bg-blue-600 m-4 p-2 rounded-xl text-white flex gap-2'><BiLoaderCircle size={25}/>Enter 3D model</button>
 <div className='m-4 pl-[500px]'><div className='flex gap-4  '><div className='bg-gradient-to-r from-white to-blue-200 p-1 rounded-md'>Magma Index: 60%</div><div className='bg-blue-200 rounded-md'><BsThreeDots size={30}/></div></div></div>
 </div>
-<div className='absolute mt-[300px] ml-[800px] '><div className='relative'><button className='absolute ml-[130px]'><AiOutlineArrowsAlt /></button><img className='w-[150px] h-[118px] rounded-md' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBd8p_SGaTBnhFxlcQjDWL5g6q0sagRxeKzNAOhBjPVtAfZas5k6ZmhYtqh0nqhEMBHM&usqp=CAU' alt='/' /></div></div>
+<div className='absolute mt-[300px] ml-[800px] '><div className='relative'><button className='absolute '><AiOutlineArrowsAlt /></button><img className='w-[150px] h-[118px] rounded-md' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBd8p_SGaTBnhFxlcQjDWL5g6q0sagRxeKzNAOhBjPVtAfZas5k6ZmhYtqh0nqhEMBHM&usqp=CAU' alt='/' /></div></div>
             <img className='w-[950px] h-[420px] mt-4 rounded-xl ' src='https://b386363e680359b5cc19-97ec1140354919029c7985d2568f0e82.ssl.cf1.rackcdn.com/assets/uploads/luxury_buildings/luxury_pic/photo/60656/optimized_66c3f2c04a718247ee27cfddf7d39122.jpg' alt='/' />
 
 </div></div></div></div>
