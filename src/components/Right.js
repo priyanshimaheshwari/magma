@@ -12,7 +12,7 @@ const Right = () => {
             <button><span title='Profile'><CgProfile size={50}/></span></button>
             <button className='mt-2 '><RiArrowDropDownLine size={20}/></button>
         </div>
-        <div className='bg-gradient-to-r from-indigo-900 via-blue-800 via-indigo-600 via-blue-500 via-indigo-400 via-blue-300 via-blue-200 via-indigo-200 to-blue-100 m-4 w-[300px] h-[250px] rounded-xl'>
+        <div className='bg-gradient-to-r from-blue-900  via-blue-500  to-blue-300   m-4 w-[300px] h-[250px] rounded-xl'>
         <div className='flex'>
         <img className='h-[50px] pt-8 pl-[30px] w-[50px] '
          src='https://png.pngtree.com/template/20191111/ourmid/pngtree-mv-vm-letter-vector-logo-image_332121.jpg' alt='/' /><p className='pt-[30px] pl-4 text-white'>Building wallet</p>

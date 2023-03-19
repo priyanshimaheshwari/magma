@@ -12,9 +12,9 @@ const main = () => {
          <div className='bg-blue-200 h-full w-full flex'>
              <Left />
              <div className='flex flex-col'>
-             <div className='flex mt-8 gap-2'>
+             <button className='flex mt-8 gap-2'>
                  <AiOutlineArrowLeft size={25}/> Back to dashboard
-             </div>
+             </button>
              <div className='flex flex-col'>
              <div className=' bg-white h-[24%] w-full rounded-xl mt-4'>
               <div className='p-4 text-4xl'>One Thousand Museum</div>
