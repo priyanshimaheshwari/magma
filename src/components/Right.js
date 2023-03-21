@@ -16,7 +16,7 @@ const Right = () => {
         <div className='flex'>
         <img className='h-[50px] pt-8 pl-[30px] w-[50px] '
          src='https://png.pngtree.com/template/20191111/ourmid/pngtree-mv-vm-letter-vector-logo-image_332121.jpg' alt='/' /><p className='pt-[30px] pl-4 text-white'>Building wallet</p>
-         <button className='bg-blue-200 ml-16 mt-8 rounded '><BsArrowUpRight size={20} color="white"/></button>
+         <button className='bg-blue-100 ml-16 mt-8 rounded '><BsArrowUpRight size={20} color="white"/></button>
      </div>
      <div className='mt-12 ml-6 text-3xl text-white'>15.4598 MGM</div>
      <div className='ml-6 text-xl text-white mt-2'>= 0.03 ETH</div>

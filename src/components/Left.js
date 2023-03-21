@@ -7,7 +7,7 @@ import {AiOutlineWallet,AiOutlineSetting,AiOutlineArrowLeft} from 'react-icons/a
 
 const Left = () => {
   return (
-    <div className='bg-blue-200 h-screen w-1/6 mt-[4px]'>
+    <div className='bg-blue-100 h-screen w-1/6 mt-[4px]'>
 <div>
     <div className='flex'>
         <img className='h-[60px] pt-8 pl-[30px] w-[50px] text-xl'
